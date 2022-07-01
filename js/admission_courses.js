@@ -17,7 +17,7 @@ let StatisticsSelect  // changed when staiistics add or remove clicked
 let AdmissionCourseFee //= "Paid"  //changed when checkout clicked
 let MainCourseFee //= "Paid"//-------Get values From Database--------
 
-let Step2 = true;  //-------Get values From Database--------
+let Step2 //= true;  //-------Get values From Database--------
 let Step3; //changed when checkout clicked and //-------Get values From Database--------
 let Step4; //-------Get values From Database--------
 let Step5; //-------Get values From Database--------
