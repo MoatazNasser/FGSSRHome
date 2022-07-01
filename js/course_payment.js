@@ -7,15 +7,15 @@
 
 //-------Get values From Database--------
 let MainCourseFee //= "Paid"; //changed when confirm clicked and or //-------Get values From Database--------
-let StudyProgram = "Professional" //-------Get values From Database-------- //Academic
-let UserSpecialization = "Web" //-------Get values From Database-------- 
-let UserCountry = "Egypt"  //-------Get values From Database--------
+let StudyProgram //= "Professional" //-------Get values From Database-------- //Academic
+let UserSpecialization //= "Web" //-------Get values From Database-------- 
+let UserCountry //= "Egypt"  //-------Get values From Database--------
 
 let Step2; //= true;  //-------Get values From Database--------
 let Step3; //= true; //-------Get values From Database--------
 let Step4; //= true; //-------Get values From Database--------
 let Step5; //= true; //-------Get values From Database--------
-let Step6 = true; //-------Get values From Database--------
+let Step6 //= true; //-------Get values From Database--------
 let Step7; //changed when confirm clicked and //-------Get values From Database--------
 let Step8; //-------Get values From Database--------
 
